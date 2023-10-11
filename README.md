@@ -1,2 +1,2 @@
-I love ［Wikipedia］.［ja.wikipedia.org］
-
+I love ［wikipedia］(URL)！
+テキスト［ja.wikipedia.org］
