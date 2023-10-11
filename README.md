@@ -1,2 +1,2 @@
-I love ［wikipedia］(URL)！
-テキスト［ja.wikipedia.org］
+I love [wikipedia](URL)!
+テキスト [https://ja.wikipedia.org/wiki]
