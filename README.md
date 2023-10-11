@@ -1,3 +1,2 @@
-I love　.［https://ja.wikipedia.org］
+I love ［Wikipedia］.［ja.wikipedia.org］
 
-2342026
